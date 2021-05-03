@@ -3,8 +3,9 @@ This folder contains examples of Python data science projects.
 Each project includes a summary PDF report as well as Python code and documentation in a Jupyter Notebook.
 
 ## Flight Delays
-[Summary Report Link](https://github.com/Tate-G/portfolio/blob/main/Summary-Flight_Delay_Model.pdf)<br>
-[Python Notebook Link](https://github.com/Tate-G/portfolio/blob/main/Flight_Delay_Model.ipynb)<br>
+One-pager [here](https://github.com/Tate-G/portfolio/blob/main/1_Page-Flight_Delay_Model.pdf), 
+Full summary report [here](https://github.com/Tate-G/portfolio/blob/main/Summary-Flight_Delay_Model.pdf), 
+Python notebook [here](https://github.com/Tate-G/portfolio/blob/main/Flight_Delay_Model.ipynb)<br>
 I construct neural network models to predict delayed US flights 1-2 months in advance. Model evaluation shows significantly improved delay predictions compared to rudimentary baseline models. Delay predictions are adjustable for varied applications that may require high precision or high recall. A thorough examination of model feature importance also reveals specific predictor variables contributing to higher or lower delay probability.
 
 ## Race and Internet in TN
